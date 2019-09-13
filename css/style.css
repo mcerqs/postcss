@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3,
+h4, h5, h6,
+.title, .subtile {
+  font-family: 'Dosis', sans-serif;
+}
+
+.comment { background: url(../images/sprite/data-server.png) no-repeat 0 0; }
+.bubble { background: url(../images/sprite/bank.png) no-repeat 0 0; }

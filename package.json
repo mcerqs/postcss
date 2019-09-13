@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcerqs",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "postcss": "^7.0.18",
+    "postcss-sprites": "^4.2.1"
+  },
+  "devDependencies": {
+    "postcss-font-magician": "^2.2.2"
+  }
+}
