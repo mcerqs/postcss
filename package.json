@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "file-system": "^2.2.2",
-    "postcss": "^7.0.18",
+    "postcss": "^8.2.10",
     "postcss-sprites": "^4.2.1"
   },
   "devDependencies": {
